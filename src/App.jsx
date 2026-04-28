@@ -1,10 +1,10 @@
-import Navbar from "./Components/layout/Navbar"
-import Hero from "./Components/sections/Hero"
-import About from "./Components/sections/About"
-import Skills from "./Components/sections/Skills"
-import Projects from "./Components/sections/Projects"
-import Contact from "./Components/sections/Contact"
-import Footer from "./Components/layout/Footer"
+import Navbar from "./Components/Layout/Navbar"
+import Hero from "./Components/Sections/Hero"
+import About from "./Components/Sections/About"
+import Skills from "./Components/Sections/Skills"
+import Projects from "./Components/Sections/Projects"
+import Contact from "./Components/Sections/Contact"
+import Footer from "./Components/Layout/Footer"
 
 
 function App() {
