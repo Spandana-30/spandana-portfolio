@@ -1,5 +1,5 @@
-import { Card, CardContent } from "./Components/ui/card"
-import { Badge } from "./Components/ui/badge"
+import { Card, CardContent } from "../ui/card"
+import { Badge } from "../ui/badge"
 
 function Projects() {
   return (
