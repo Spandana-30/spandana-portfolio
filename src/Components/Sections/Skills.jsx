@@ -1,4 +1,4 @@
-import { Card, CardContent } from "./Components/ui/card"
+import { Card, CardContent } from "../ui/card"
 
 function Skills() {
   return (
